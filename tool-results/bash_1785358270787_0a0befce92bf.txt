@@ -1,0 +1,501 @@
+264 @ 0x563be47caec0] Invalid NAL unit size (419 > 385).
+264 @ 0x563be47caec0] missing picture in access unit with size 1119
+264 @ 0x563be47caec0] Invalid NAL unit size (419 > 385).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (-496859080 > 12557).
+264 @ 0x563be47caec0] missing picture in access unit with size 13333
+264 @ 0x563be47caec0] Invalid NAL unit size (-496859080 > 12557).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (-919827294 > 18123).
+264 @ 0x563be47caec0] missing picture in access unit with size 18127
+264 @ 0x563be47caec0] Invalid NAL unit size (-919827294 > 18123).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (1185318423 > 3872).
+264 @ 0x563be47caec0] missing picture in access unit with size 3876
+264 @ 0x563be47caec0] Invalid NAL unit size (1185318423 > 3872).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (-1291514472 > 4344).
+264 @ 0x563be47caec0] missing picture in access unit with size 4348
+264 @ 0x563be47caec0] Invalid NAL unit size (-1291514472 > 4344).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (-39071573 > 4512).
+264 @ 0x563be47caec0] missing picture in access unit with size 4516
+264 @ 0x563be47caec0] Invalid NAL unit size (-39071573 > 4512).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (-813536732 > 7704).
+264 @ 0x563be47caec0] missing picture in access unit with size 7708
+264 @ 0x563be47caec0] Invalid NAL unit size (-813536732 > 7704).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (894782567 > 102).
+264 @ 0x563be47caec0] missing picture in access unit with size 106
+264 @ 0x563be47caec0] Invalid NAL unit size (894782567 > 102).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (1386257152 > 5341).
+264 @ 0x563be47caec0] missing picture in access unit with size 5345
+264 @ 0x563be47caec0] Invalid NAL unit size (1386257152 > 5341).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (514459950 > 11158).
+264 @ 0x563be47caec0] missing picture in access unit with size 11162
+264 @ 0x563be47caec0] Invalid NAL unit size (514459950 > 11158).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (805388717 > 884).
+264 @ 0x563be47caec0] missing picture in access unit with size 888
+264 @ 0x563be47caec0] Invalid NAL unit size (805388717 > 884).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (-759656571 > 1418).
+264 @ 0x563be47caec0] missing picture in access unit with size 1422
+264 @ 0x563be47caec0] Invalid NAL unit size (-759656571 > 1418).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (1130355618 > 5450).
+264 @ 0x563be47caec0] missing picture in access unit with size 5454
+264 @ 0x563be47caec0] Invalid NAL unit size (1130355618 > 5450).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (-2060643074 > 14293).
+264 @ 0x563be47caec0] missing picture in access unit with size 14297
+264 @ 0x563be47caec0] Invalid NAL unit size (-2060643074 > 14293).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (4440320 > 684).
+264 @ 0x563be47caec0] missing picture in access unit with size 688
+264 @ 0x563be47caec0] Invalid NAL unit size (4440320 > 684).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (-886274231 > 183).
+264 @ 0x563be47caec0] missing picture in access unit with size 187
+264 @ 0x563be47caec0] Invalid NAL unit size (-886274231 > 183).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (50331651 > 187).
+264 @ 0x563be47caec0] missing picture in access unit with size 191
+264 @ 0x563be47caec0] Invalid NAL unit size (50331651 > 187).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (-1606502795 > 2531).
+264 @ 0x563be47caec0] missing picture in access unit with size 2535
+264 @ 0x563be47caec0] Invalid NAL unit size (-1606502795 > 2531).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (768 > 563).
+264 @ 0x563be47caec0] missing picture in access unit with size 567
+264 @ 0x563be47caec0] Invalid NAL unit size (768 > 563).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (5036148 > 341).
+264 @ 0x563be47caec0] missing picture in access unit with size 345
+264 @ 0x563be47caec0] Invalid NAL unit size (5036148 > 341).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (1164112752 > 175).
+264 @ 0x563be47caec0] missing picture in access unit with size 179
+264 @ 0x563be47caec0] Invalid NAL unit size (1164112752 > 175).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (50331750 > 1664).
+264 @ 0x563be47caec0] missing picture in access unit with size 1668
+264 @ 0x563be47caec0] Invalid NAL unit size (50331750 > 1664).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (2135752784 > 344).
+264 @ 0x563be47caec0] missing picture in access unit with size 348
+264 @ 0x563be47caec0] Invalid NAL unit size (2135752784 > 344).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (1067691829 > 175).
+264 @ 0x563be47caec0] missing picture in access unit with size 179
+264 @ 0x563be47caec0] Invalid NAL unit size (1067691829 > 175).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (5036148 > 104).
+264 @ 0x563be47caec0] missing picture in access unit with size 108
+264 @ 0x563be47caec0] Invalid NAL unit size (5036148 > 104).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (1877133193 > 451).
+264 @ 0x563be47caec0] missing picture in access unit with size 455
+264 @ 0x563be47caec0] Invalid NAL unit size (1877133193 > 451).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (1291866241 > 285).
+264 @ 0x563be47caec0] missing picture in access unit with size 289
+264 @ 0x563be47caec0] Invalid NAL unit size (1291866241 > 285).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (209694774 > 116).
+264 @ 0x563be47caec0] missing picture in access unit with size 120
+264 @ 0x563be47caec0] Invalid NAL unit size (209694774 > 116).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (50331651 > 103).
+264 @ 0x563be47caec0] missing picture in access unit with size 107
+264 @ 0x563be47caec0] Invalid NAL unit size (50331651 > 103).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (478494720 > 245).
+264 @ 0x563be47caec0] missing picture in access unit with size 249
+264 @ 0x563be47caec0] Invalid NAL unit size (478494720 > 245).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (2010935168 > 248).
+264 @ 0x563be47caec0] missing picture in access unit with size 252
+264 @ 0x563be47caec0] Invalid NAL unit size (2010935168 > 248).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (-1760034816 > 81).
+264 @ 0x563be47caec0] missing picture in access unit with size 85
+264 @ 0x563be47caec0] Invalid NAL unit size (-1760034816 > 81).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (-516358142 > 84).
+264 @ 0x563be47caec0] missing picture in access unit with size 88
+264 @ 0x563be47caec0] Invalid NAL unit size (-516358142 > 84).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (-1804487555 > 252).
+264 @ 0x563be47caec0] missing picture in access unit with size 256
+264 @ 0x563be47caec0] Invalid NAL unit size (-1804487555 > 252).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (1295307597 > 254).
+264 @ 0x563be47caec0] missing picture in access unit with size 258
+264 @ 0x563be47caec0] Invalid NAL unit size (1295307597 > 254).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (1472691195 > 99).
+264 @ 0x563be47caec0] missing picture in access unit with size 103
+264 @ 0x563be47caec0] Invalid NAL unit size (1472691195 > 99).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (57665 > 95).
+264 @ 0x563be47caec0] missing picture in access unit with size 99
+264 @ 0x563be47caec0] Invalid NAL unit size (57665 > 95).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (-738169809 > 141).
+264 @ 0x563be47caec0] missing picture in access unit with size 145
+264 @ 0x563be47caec0] Invalid NAL unit size (-738169809 > 141).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (196608 > 244).
+264 @ 0x563be47caec0] missing picture in access unit with size 248
+264 @ 0x563be47caec0] Invalid NAL unit size (196608 > 244).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (-1155705322 > 83).
+264 @ 0x563be47caec0] missing picture in access unit with size 87
+264 @ 0x563be47caec0] Invalid NAL unit size (-1155705322 > 83).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (-836886186 > 83).
+264 @ 0x563be47caec0] missing picture in access unit with size 87
+264 @ 0x563be47caec0] Invalid NAL unit size (-836886186 > 83).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (240890032 > 129).
+264 @ 0x563be47caec0] missing picture in access unit with size 133
+264 @ 0x563be47caec0] Invalid NAL unit size (240890032 > 129).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (904372224 > 233).
+264 @ 0x563be47caec0] missing picture in access unit with size 237
+264 @ 0x563be47caec0] Invalid NAL unit size (904372224 > 233).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (1181837004 > 98).
+264 @ 0x563be47caec0] missing picture in access unit with size 102
+264 @ 0x563be47caec0] Invalid NAL unit size (1181837004 > 98).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (1870665456 > 98).
+264 @ 0x563be47caec0] missing picture in access unit with size 102
+264 @ 0x563be47caec0] Invalid NAL unit size (1870665456 > 98).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (196614 > 138).
+264 @ 0x563be47caec0] missing picture in access unit with size 142
+264 @ 0x563be47caec0] Invalid NAL unit size (196614 > 138).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (-256409196 > 243).
+264 @ 0x563be47caec0] missing picture in access unit with size 247
+264 @ 0x563be47caec0] Invalid NAL unit size (-256409196 > 243).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (50331651 > 84).
+264 @ 0x563be47caec0] missing picture in access unit with size 88
+264 @ 0x563be47caec0] Invalid NAL unit size (50331651 > 84).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (964016804 > 86).
+264 @ 0x563be47caec0] missing picture in access unit with size 90
+264 @ 0x563be47caec0] Invalid NAL unit size (964016804 > 86).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (1067691829 > 199).
+264 @ 0x563be47caec0] missing picture in access unit with size 203
+264 @ 0x563be47caec0] Invalid NAL unit size (1067691829 > 199).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (9471144 > 248).
+264 @ 0x563be47caec0] missing picture in access unit with size 252
+264 @ 0x563be47caec0] Invalid NAL unit size (9471144 > 248).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (-1578009751 > 91).
+264 @ 0x563be47caec0] missing picture in access unit with size 95
+264 @ 0x563be47caec0] Invalid NAL unit size (-1578009751 > 91).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (1365871678 > 86).
+264 @ 0x563be47caec0] missing picture in access unit with size 90
+264 @ 0x563be47caec0] Invalid NAL unit size (1365871678 > 86).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (641356684 > 130).
+264 @ 0x563be47caec0] missing picture in access unit with size 134
+264 @ 0x563be47caec0] Invalid NAL unit size (641356684 > 130).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (2139095040 > 243).
+264 @ 0x563be47caec0] missing picture in access unit with size 247
+264 @ 0x563be47caec0] Invalid NAL unit size (2139095040 > 243).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (-825413388 > 85).
+264 @ 0x563be47caec0] missing picture in access unit with size 89
+264 @ 0x563be47caec0] Invalid NAL unit size (-825413388 > 85).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (125295861 > 85).
+264 @ 0x563be47caec0] missing picture in access unit with size 89
+264 @ 0x563be47caec0] Invalid NAL unit size (125295861 > 85).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (1970274740 > 138).
+264 @ 0x563be47caec0] missing picture in access unit with size 142
+264 @ 0x563be47caec0] Invalid NAL unit size (1970274740 > 138).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (50331659 > 255).
+264 @ 0x563be47caec0] missing picture in access unit with size 259
+264 @ 0x563be47caec0] Invalid NAL unit size (50331659 > 255).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (924890059 > 99).
+264 @ 0x563be47caec0] missing picture in access unit with size 103
+264 @ 0x563be47caec0] Invalid NAL unit size (924890059 > 99).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (768 > 98).
+264 @ 0x563be47caec0] missing picture in access unit with size 102
+264 @ 0x563be47caec0] Invalid NAL unit size (768 > 98).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (-1256422080 > 125).
+264 @ 0x563be47caec0] missing picture in access unit with size 129
+264 @ 0x563be47caec0] Invalid NAL unit size (-1256422080 > 125).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (-1266859909 > 241).
+264 @ 0x563be47caec0] missing picture in access unit with size 245
+264 @ 0x563be47caec0] Invalid NAL unit size (-1266859909 > 241).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (-1548798569 > 84).
+264 @ 0x563be47caec0] missing picture in access unit with size 88
+264 @ 0x563be47caec0] Invalid NAL unit size (-1548798569 > 84).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (50331686 > 85).
+264 @ 0x563be47caec0] missing picture in access unit with size 89
+264 @ 0x563be47caec0] Invalid NAL unit size (50331686 > 85).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (19672 > 118).
+264 @ 0x563be47caec0] missing picture in access unit with size 122
+264 @ 0x563be47caec0] Invalid NAL unit size (19672 > 118).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (2073111690 > 257).
+264 @ 0x563be47caec0] missing picture in access unit with size 261
+264 @ 0x563be47caec0] Invalid NAL unit size (2073111690 > 257).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (-1704376409 > 99).
+264 @ 0x563be47caec0] missing picture in access unit with size 103
+264 @ 0x563be47caec0] Invalid NAL unit size (-1704376409 > 99).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (-256409196 > 98).
+264 @ 0x563be47caec0] missing picture in access unit with size 102
+264 @ 0x563be47caec0] Invalid NAL unit size (-256409196 > 98).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (1073741827 > 127).
+264 @ 0x563be47caec0] missing picture in access unit with size 131
+264 @ 0x563be47caec0] Invalid NAL unit size (1073741827 > 127).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (-568147501 > 241).
+264 @ 0x563be47caec0] missing picture in access unit with size 245
+264 @ 0x563be47caec0] Invalid NAL unit size (-568147501 > 241).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (5505438 > 84).
+264 @ 0x563be47caec0] missing picture in access unit with size 88
+264 @ 0x563be47caec0] Invalid NAL unit size (5505438 > 84).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (5570974 > 85).
+264 @ 0x563be47caec0] missing picture in access unit with size 89
+264 @ 0x563be47caec0] Invalid NAL unit size (5570974 > 85).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (9060762 > 117).
+264 @ 0x563be47caec0] missing picture in access unit with size 121
+264 @ 0x563be47caec0] Invalid NAL unit size (9060762 > 117).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (2051434505 > 255).
+264 @ 0x563be47caec0] missing picture in access unit with size 259
+264 @ 0x563be47caec0] Invalid NAL unit size (2051434505 > 255).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (50331651 > 99).
+264 @ 0x563be47caec0] missing picture in access unit with size 103
+264 @ 0x563be47caec0] Invalid NAL unit size (50331651 > 99).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (1713179829 > 98).
+264 @ 0x563be47caec0] missing picture in access unit with size 102
+264 @ 0x563be47caec0] Invalid NAL unit size (1713179829 > 98).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (1079494522 > 116).
+264 @ 0x563be47caec0] missing picture in access unit with size 120
+264 @ 0x563be47caec0] Invalid NAL unit size (1079494522 > 116).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (768 > 242).
+264 @ 0x563be47caec0] missing picture in access unit with size 246
+264 @ 0x563be47caec0] Invalid NAL unit size (768 > 242).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (641356684 > 84).
+264 @ 0x563be47caec0] missing picture in access unit with size 88
+264 @ 0x563be47caec0] Invalid NAL unit size (641356684 > 84).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (1289254116 > 85).
+264 @ 0x563be47caec0] missing picture in access unit with size 89
+264 @ 0x563be47caec0] Invalid NAL unit size (1289254116 > 85).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (-948175935 > 120).
+264 @ 0x563be47caec0] missing picture in access unit with size 124
+264 @ 0x563be47caec0] Invalid NAL unit size (-948175935 > 120).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (492209431 > 256).
+264 @ 0x563be47caec0] missing picture in access unit with size 260
+264 @ 0x563be47caec0] Invalid NAL unit size (492209431 > 256).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (-261092896 > 99).
+264 @ 0x563be47caec0] missing picture in access unit with size 103
+264 @ 0x563be47caec0] Invalid NAL unit size (-261092896 > 99).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (956301876 > 98).
+264 @ 0x563be47caec0] missing picture in access unit with size 102
+264 @ 0x563be47caec0] Invalid NAL unit size (956301876 > 98).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (-1978649914 > 118).
+264 @ 0x563be47caec0] missing picture in access unit with size 122
+264 @ 0x563be47caec0] Invalid NAL unit size (-1978649914 > 118).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (-2147410809 > 241).
+264 @ 0x563be47caec0] missing picture in access unit with size 245
+264 @ 0x563be47caec0] Invalid NAL unit size (-2147410809 > 241).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (1700096 > 84).
+264 @ 0x563be47caec0] missing picture in access unit with size 88
+264 @ 0x563be47caec0] Invalid NAL unit size (1700096 > 84).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (43393 > 85).
+264 @ 0x563be47caec0] missing picture in access unit with size 89
+264 @ 0x563be47caec0] Invalid NAL unit size (43393 > 85).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (-960753891 > 118).
+264 @ 0x563be47caec0] missing picture in access unit with size 122
+264 @ 0x563be47caec0] Invalid NAL unit size (-960753891 > 118).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (793186672 > 254).
+264 @ 0x563be47caec0] missing picture in access unit with size 258
+264 @ 0x563be47caec0] Invalid NAL unit size (793186672 > 254).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (459955968 > 99).
+264 @ 0x563be47caec0] missing picture in access unit with size 103
+264 @ 0x563be47caec0] Invalid NAL unit size (459955968 > 99).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (196608 > 98).
+264 @ 0x563be47caec0] missing picture in access unit with size 102
+264 @ 0x563be47caec0] Invalid NAL unit size (196608 > 98).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (583127930 > 118).
+264 @ 0x563be47caec0] missing picture in access unit with size 122
+264 @ 0x563be47caec0] Invalid NAL unit size (583127930 > 118).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (634309936 > 241).
+264 @ 0x563be47caec0] missing picture in access unit with size 245
+264 @ 0x563be47caec0] Invalid NAL unit size (634309936 > 241).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (196608 > 84).
+264 @ 0x563be47caec0] missing picture in access unit with size 88
+264 @ 0x563be47caec0] Invalid NAL unit size (196608 > 84).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (1751392196 > 85).
+264 @ 0x563be47caec0] missing picture in access unit with size 89
+264 @ 0x563be47caec0] Invalid NAL unit size (1751392196 > 85).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (1745429336 > 117).
+264 @ 0x563be47caec0] missing picture in access unit with size 121
+264 @ 0x563be47caec0] Invalid NAL unit size (1745429336 > 117).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (856015016 > 254).
+264 @ 0x563be47caec0] missing picture in access unit with size 258
+264 @ 0x563be47caec0] Invalid NAL unit size (856015016 > 254).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (-148841744 > 99).
+264 @ 0x563be47caec0] missing picture in access unit with size 103
+264 @ 0x563be47caec0] Invalid NAL unit size (-148841744 > 99).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (1877133193 > 98).
+264 @ 0x563be47caec0] missing picture in access unit with size 102
+264 @ 0x563be47caec0] Invalid NAL unit size (1877133193 > 98).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (50343011 > 116).
+264 @ 0x563be47caec0] missing picture in access unit with size 120
+264 @ 0x563be47caec0] Invalid NAL unit size (50343011 > 116).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (273651982 > 243).
+264 @ 0x563be47caec0] missing picture in access unit with size 247
+264 @ 0x563be47caec0] Invalid NAL unit size (273651982 > 243).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (-1655084544 > 86).
+264 @ 0x563be47caec0] missing picture in access unit with size 90
+264 @ 0x563be47caec0] Invalid NAL unit size (-1655084544 > 86).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (-1581305918 > 87).
+264 @ 0x563be47caec0] missing picture in access unit with size 91
+264 @ 0x563be47caec0] Invalid NAL unit size (-1581305918 > 87).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (398960640 > 120).
+264 @ 0x563be47caec0] missing picture in access unit with size 124
+264 @ 0x563be47caec0] Invalid NAL unit size (398960640 > 120).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (-2147483645 > 256).
+264 @ 0x563be47caec0] missing picture in access unit with size 260
+264 @ 0x563be47caec0] Invalid NAL unit size (-2147483645 > 256).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (1100681289 > 98).
+264 @ 0x563be47caec0] missing picture in access unit with size 102
+264 @ 0x563be47caec0] Invalid NAL unit size (1100681289 > 98).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (624000668 > 98).
+264 @ 0x563be47caec0] missing picture in access unit with size 102
+264 @ 0x563be47caec0] Invalid NAL unit size (624000668 > 98).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (-287688380 > 118).
+264 @ 0x563be47caec0] missing picture in access unit with size 122
+264 @ 0x563be47caec0] Invalid NAL unit size (-287688380 > 118).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (768 > 241).
+264 @ 0x563be47caec0] missing picture in access unit with size 245
+264 @ 0x563be47caec0] Invalid NAL unit size (768 > 241).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (-355440540 > 84).
+264 @ 0x563be47caec0] missing picture in access unit with size 88
+264 @ 0x563be47caec0] Invalid NAL unit size (-355440540 > 84).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (1323180912 > 85).
+264 @ 0x563be47caec0] missing picture in access unit with size 89
+264 @ 0x563be47caec0] Invalid NAL unit size (1323180912 > 85).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (292564676 > 116).
+264 @ 0x563be47caec0] missing picture in access unit with size 120
+264 @ 0x563be47caec0] Invalid NAL unit size (292564676 > 116).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (-1499829850 > 254).
+264 @ 0x563be47caec0] missing picture in access unit with size 258
+264 @ 0x563be47caec0] Invalid NAL unit size (-1499829850 > 254).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (1079494522 > 99).
+264 @ 0x563be47caec0] missing picture in access unit with size 103
+264 @ 0x563be47caec0] Invalid NAL unit size (1079494522 > 99).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (61570225 > 98).
+264 @ 0x563be47caec0] missing picture in access unit with size 102
+264 @ 0x563be47caec0] Invalid NAL unit size (61570225 > 98).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (-912349184 > 118).
+264 @ 0x563be47caec0] missing picture in access unit with size 122
+264 @ 0x563be47caec0] Invalid NAL unit size (-912349184 > 118).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (-749914926 > 241).
+264 @ 0x563be47caec0] missing picture in access unit with size 245
+264 @ 0x563be47caec0] Invalid NAL unit size (-749914926 > 241).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (50331651 > 84).
+264 @ 0x563be47caec0] missing picture in access unit with size 88
+264 @ 0x563be47caec0] Invalid NAL unit size (50331651 > 84).
+264 @ 0x563be47caec0] Error splitting the input into NAL units.
+264 @ 0x563be47caec0] Invalid NAL unit size (10212965 > 85).
+264 @ 0x563be47caec0] missing picture in access unit with size 89
+{
+    "programs": [
+
+    ],
+    "stream_groups": [
+
+    ],
+    "streams": [
+        {
+            "codec_name": "h264",
+            "width": 1920,
+            "height": 1080
+        }
+    ],
+    "format": {
+        "duration": "160.000000",
+        "size": "2482238"
+    }
+}
